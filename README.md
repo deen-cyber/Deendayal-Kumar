@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Skills
-- Programming: Python, C++
+- Programming: Python, C++, Java
 - Tools: Git, GitHub
 - Libraries: NumPy, Pandas, Scikit-learn
 
